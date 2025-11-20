@@ -39,7 +39,7 @@ POST https://<sua-function-url>/api/simulate
 - Request JSON:
 ```json
 { "valor": 350000, "entrada": 70000, "anos": 30, "juros_ano": 0.10 }
-[Azure Frontier Girls _ Nov 2025.pdf](https://github.com/user-attachments/files/23655133/Azure.Frontier.Girls._.Nov.2025.pdf)
+
 
 ## Referências
 
@@ -51,4 +51,4 @@ POST https://<sua-function-url>/api/simulate
 - [Regioes dos modelos](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/concepts/model-region-support?tabs=global-standard)
 
 
-
+[Azure Frontier Girls _ Nov 2025.pdf](https://github.com/user-attachments/files/23655133/Azure.Frontier.Girls._.Nov.2025.pdf)]
