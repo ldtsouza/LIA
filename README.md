@@ -41,6 +41,7 @@ LIA é o agente de atendimento da Imóveis LDantas, criado com Azure AI Foundry.
 - [Discord do AI Foundry](https://aka.ms/foundry/discord)
 - [Regioes dos modelos](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/concepts/model-region-support?tabs=global-standard)
 
+## Prints de respostas, fluxo e execução
 [Azure Frontier Girls _ Nov 2025.pdf](https://github.com/user-attachments/files/23655133/Azure.Frontier.Girls._.Nov.2025.pdf)]
 
 ## Ação funcional implementada
