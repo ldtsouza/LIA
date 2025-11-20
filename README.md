@@ -32,6 +32,17 @@ LIA é o agente de atendimento da Imóveis LDantas, criado com Azure AI Foundry.
 - Ação integrada: Simulação de financiamento imobiliário
 - Ferramenta: API externa via Azure Function
 
+  
+## Referências
+- [Mais Mulheres Tech - (https://www.maismulheres.tech/courses/take/azure-frontier-girls/multimedia/70293690-build-your-first-copilot-challenge-foundry-edition-aula-e-explicacao-do-challenge)]
+- [Generative AI for Beginners (Version 3) - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/)
+- [AI Agents for Begineers Repository](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+- [MCP for Beginners Repository](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+- [Discord do AI Foundry](https://aka.ms/foundry/discord)
+- [Regioes dos modelos](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/concepts/model-region-support?tabs=global-standard)
+
+[Azure Frontier Girls _ Nov 2025.pdf](https://github.com/user-attachments/files/23655133/Azure.Frontier.Girls._.Nov.2025.pdf)]
+
 ## Ação funcional implementada
 **Simulação de financiamento** (`POST /api/simulate`)
 POST https://<sua-function-url>/api/simulate
@@ -41,14 +52,3 @@ POST https://<sua-function-url>/api/simulate
 { "valor": 350000, "entrada": 70000, "anos": 30, "juros_ano": 0.10 }
 
 
-## Referências
-
-- [Mais Mulheres Tech - (https://www.maismulheres.tech/courses/take/azure-frontier-girls/multimedia/70293690-build-your-first-copilot-challenge-foundry-edition-aula-e-explicacao-do-challenge)]
-- [Generative AI for Beginners (Version 3) - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/)
-- [AI Agents for Begineers Repository](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
-- [MCP for Beginners Repository](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
-- [Discord do AI Foundry](https://aka.ms/foundry/discord)
-- [Regioes dos modelos](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/concepts/model-region-support?tabs=global-standard)
-
-
-[Azure Frontier Girls _ Nov 2025.pdf](https://github.com/user-attachments/files/23655133/Azure.Frontier.Girls._.Nov.2025.pdf)]
