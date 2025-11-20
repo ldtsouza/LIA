@@ -44,6 +44,16 @@ LIA é o agente de atendimento da Imóveis LDantas, criado com Azure AI Foundry.
 ## Prints de respostas, fluxo e execução
 [Azure Frontier Girls _ Nov 2025.pdf](https://github.com/user-attachments/files/23655133/Azure.Frontier.Girls._.Nov.2025.pdf)]
 
+## Vídeo com Lia Executando 
+- A LIA utiliza uma Azure Function para calcular:
+- Valor das parcelas
+- Prazo total
+- Juros pelo sistema PRICE
+- Valor total pago
+- https://github.com/user-attachments/assets/93240aa9-bb2f-49f9-8469-17a0afb2b9f0
+
+
+
 ## Ação funcional implementada
 **Simulação de financiamento** (`POST /api/simulate`)
 POST https://<sua-function-url>/api/simulate
